@@ -25,7 +25,7 @@ git clone <URL_DO_SEU_REPOSITORIO_GITHUB>
 cd <NOME_DO_REPOSITORIO>
 
 
-2. Inicialize o Terraform
+### 2. Inicialize o Terraform
 Inicialize o Terraform e baixe os módulos necessários.
 
 terraform init
